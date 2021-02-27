@@ -1,0 +1,17 @@
+/target/classes/makselan/konrad/AppController$1.class
+/target/classes/makselan/konrad/AppController.class
+/target/classes/makselan/konrad/AppModel.class
+/target/classes/makselan/konrad/AppRun.class
+/target/classes/makselan/konrad/AppView.class
+/target/classes/makselan/konrad/circle.png
+/target/classes/makselan/konrad/cross.png
+/target/classes/makselan/konrad/FieldState.class
+/target/classes/makselan/konrad/redCircle.png
+/target/classes/makselan/konrad/redCross.png
+/target/classes/makselan/konrad/square.png
+/target/test-classes/makselan/konrad/AppModelTest.class
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
