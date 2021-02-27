@@ -15,3 +15,15 @@
 /.idea/jarRepositories.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/target/dependency/apiguardian-api-1.1.0.jar
+/target/dependency/junit-jupiter-api-5.5.2.jar
+/target/dependency/junit-jupiter-engine-5.5.2.jar
+/target/dependency/junit-platform-commons-1.5.2.jar
+/target/dependency/junit-platform-engine-1.5.2.jar
+/target/dependency/opentest4j-1.2.0.jar
+/target/maven-archiver/pom.properties
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/tic-tac-toe-1.0-SNAPSHOT.jar
